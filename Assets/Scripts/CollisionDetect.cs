@@ -23,7 +23,7 @@ public class CollisionDetect : MonoBehaviour
         thePlayer.GetComponent<PlayerMovement>().enabled = false;
         playerAnim.GetComponent<Animator>().Play("Stumble Backwards");
         mainCam.GetComponent<Animator>().Play("CollisionCam");
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(3);
         fadeOut.SetActive(true);
         yield return new WaitForSeconds(1);
         SceneManager.LoadScene(0);
