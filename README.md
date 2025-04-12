@@ -66,3 +66,23 @@ Assets/
 ├── Audio/               # BGM and sound effects
 ├── UI/                  # Canvas, coin counter, fade effects
 └── Models/              # Imported 3D models (player, environment)
+
+```
+---
+
+## Gameplay Screenshots
+
+Here are a couple of screenshots showcasing the gameplay:
+
+![Player running in the game environment](ss/run.png)  
+*Player running in the game environment.*
+
+![Start screen before gameplay begins](ss/start.png)  
+*Start screen before gameplay begins.*
+
+---
+
+## Gameplay Video
+
+Watch the gameplay video here: [Google Drive Link to Gameplay Video](<https://drive.google.com/file/d/1kaVpm5ZS1VY21_xU2kblbf5r2LqQN4eP/view>)
+
